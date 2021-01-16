@@ -56,7 +56,7 @@ Please follow below steps to run the Dapp in your browser:
 
 
 
-#### Project Structure
+#### 📂 Project Structure
 
 ```
 .
@@ -69,18 +69,6 @@ Please follow below steps to run the Dapp in your browser:
 │   │   ├── index.html
 │   │   └── index.js
 │   └── webpack.config.js
-├── build
-│   └── contracts
-│       ├── Address.json
-│       ├── Counters.json
-│       ├── ERC165.json
-│       ├── ERC721.json
-│       ├── IERC165.json
-│       ├── IERC721.json
-│       ├── IERC721Receiver.json
-│       ├── Migrations.json
-│       ├── SafeMath.json
-│       └── StarNotary.json
 ├── contracts
 │   ├── Migrations.sol
 │   └── StarNotary.sol
