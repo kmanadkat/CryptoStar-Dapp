@@ -7,6 +7,16 @@ StarNotary Contract is implementation of ERC-721 token interface. Using this, us
 
 
 
+<img src="./preview1.png" style="zoom:25%;" />
+
+
+
+<img src="./preview2.png" style="zoom:25%;" />
+
+
+
+
+
 #### 📜 Project Environment Information
 
 | Entity                | Value                                      |
