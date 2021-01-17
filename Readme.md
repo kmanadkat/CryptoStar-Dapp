@@ -87,3 +87,14 @@ Please follow below steps to run the Dapp in your browser:
 ***To verify & view contract on Rinkeby Etherscan, steps from below url were followed.***
 
 https://forum.openzeppelin.com/t/how-to-verify-an-erc721-inheriting-from-openzeppelin/1062/2
+
+
+
+#### 📮Suggested Resources Post Evaluation
+
+1. https://www.amazon.com/-/es/Debugging-Indispensable-Software-Hardware-Problems-ebook/dp/B00PDDKQV2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+2. https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148
+3. https://medium.com/@andresaaap/architect-a-blockchain-supply-chain-solution-part-b-project-faq-udacity-blockchain-da86496fce55
+4. https://www.youtube.com/watch?v=J3jKROwTPCs&feature=youtu.be
+5. https://www.youtube.com/watch?v=PC05prd2usY
+
